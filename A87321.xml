@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Immortality in mortality magnifi'd in a strange (yet true) narration of one Master Pountney, merchant, sometimes living in the parish of Mary le Bow in Cheapside, who was buried in the chancell of the church of Leonard East-cheap, anno Dom. 1613. and was found on this present Feb. 15. 1647. whole and sound without any diminution or corruption of his members or body inward or outward, having lain in his grave (according to the precedent date, which is extracted from the register book of the aforesaid parish, Leonards East-cheap) 34 years, published as a wonder of wonders in this age. Printed and published according to order of Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87321</idno><idno type="EEBO-CITATION">99861886</idno>
+  <idno type="VID">159955</idno>
+  <idno type="EEBO-PROQUEST">2248522769</idno>
+  
+            <idno type="STC">Wing I56</idno>
+            <idno type="STC">Thomason E377_13</idno>
+            <idno type="STC">ESTC R201362</idno>
+            <idno type="PROQUEST">99861886</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861886e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87321)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159955)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 60:E377[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Immortality in mortality magnifi'd in a strange (yet true) narration of one Master Pountney, merchant, sometimes living in the parish of Mary le Bow in Cheapside, who was buried in the chancell of the church of Leonard East-cheap, anno Dom. 1613. and was found on this present Feb. 15. 1647. whole and sound without any diminution or corruption of his members or body inward or outward, having lain in his grave (according to the precedent date, which is extracted from the register book of the aforesaid parish, Leonards East-cheap) 34 years, published as a wonder of wonders in this age. Printed and published according to order of Parliament.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Bates, at the sign of the Maiden-head on Snow-hill, neer Holburn conduit,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "feb: 19 1646"; the 7 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Pountney, --  Master, d. 1613.</term>
+               <term type="topical_term">Curiosities and wonders --  England --  Early works to 1800.</term>
+               <term type="topical_term">Dead --  Early works to 1800.</term>
+               <term type="topical_term">Preservation of organs, tissues, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159955:1"/>
+            <p>Immortality in Mortality magnifi'd In a strange (yet true) Narration of one Master <hi>POVNTNEY, Merchant,</hi> sometimes living in the Parish of Mary le Bow in Cheapside, who was buried in the Chan<g ref="char:EOLhyphen"/>cell of the Church of Leonard East-cheap, Anno Dom. 1613. and was found on this present Feb. 15. 1647. whole and sound with<g ref="char:EOLhyphen"/>out any diminution or corruption of his members or body inward or out ward, having lain in his grave (according to the precedent date, which is extracted from the Register book of the aforesaid parish, Leo<g ref="char:EOLhyphen"/>nards East-cheap) 34 years, Published as a wonder of won<g ref="char:EOLhyphen"/>ders in this Age.</p>
+            <figure>
+               <figDesc>man</figDesc>
+            </figure>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Printed and published according to Order of Parliament.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>London, printed for <hi>Thomas Bates,</hi> at the sign of the Maiden-head on Snow-hill, neer Holburn conduit, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159955:2"/>
+            <pb n="3" facs="tcp:159955:2"/>
+            <head>IMMORTALITY In Mortality <hi>MAGNJFJED.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">M</seg>Any, and manifest, have been the wondrous &amp; supernatural effects of Gods immence wisdom and pow<g ref="char:EOLhyphen"/>er in all ages since his divine wis<g ref="char:EOLhyphen"/>dom, mercy and power first fra<g ref="char:EOLhyphen"/>med a creature like himself (which is man) to reiterate all, or a part, would argue much va<g ref="char:EOLhyphen"/>nity; it beeing (almost) universally known: but what says the present Age; no Wonders are now: No, tis wonder to behold a Won<g ref="char:EOLhyphen"/>der. Wel, let that passe, and Ile passe on to my Relation, which is so generally known for truth that all particular objections to the con<g ref="char:EOLhyphen"/>trary are meerly frustrated.</p>
+            <pb n="4" facs="tcp:159955:3"/>
+            <p>In the parish of Leonards Eastcheap, Lon<g ref="char:EOLhyphen"/>don, on the 15. of February 1646. a man of note beeing dead was (by his own living ap<g ref="char:EOLhyphen"/>pointment and surviving friends to be interred in the Chancel of the aforefaid Parish-Church where the ground beeing broaken up the Sex<g ref="char:EOLhyphen"/>ton, Mr Hill, according to usual custom went to take up, and throw away, the long lying, and fleshlesse, bones: But behold, with won<g ref="char:EOLhyphen"/>der, contray to custom, expectation, or na<g ref="char:EOLhyphen"/>ture, he found a body firm, which hee could not move without help.</p>
+            <p>Much wonder was raised, at the raising of this so long dead and buryed, body; for all his lims and linaments, his hair, both of head, beard and other usual places, all as firmly grow<g ref="char:EOLhyphen"/>ing; or rather fixt, as it was when he was first buried, which was, as you shal hear, he dyed 34. years since: Upon this admirable discove<g ref="char:EOLhyphen"/>ry, a fight much amazing, search was made, both within and without book, who it should bee that had been so long agone buried in that place; for there had been none lately within knowledge; some held it to be, and that was held to be for a while among the neighbor<g ref="char:EOLhyphen"/>hood, one Mr Paul a Butcher of Eastcheap,
+<pb n="5" facs="tcp:159955:3"/>who dyed and was buried, neer to that place, some 23. or 24. years since; if it had been him a Wonder it were, though not so great: but finding in the Register his name and place not there: further search was made backward, e<g ref="char:EOLhyphen"/>ven to the year 1613. and in that year it was found that in that very place, none being layd there ever since, one Mr Pountney Merchant, dwelling (in his last dayes) in the Parish of Mary le Bow in Cheapside, where he dyed; whether it were for memory of Ancestors, or affection to the place, I made not question: but both he and his own Brother, dying short<g ref="char:EOLhyphen"/>ly one after another, were buried in the same Chancel.</p>
+            <p>Now Reader if thou wouldst know or de<g ref="char:EOLhyphen"/>mand why Almighty God, Creator, Governor, conserver and disposer of all things both in Heaven and in Eearth, chose this man rather then his Brother, who is consumed to nothing or any other to shew this exemplary miracle upon: I refer thee to the expostulation between his divine Majesty, and his Servant Job, chap. 28.29. and having read learn to admire and not to examine: or yet if thou pleasest, for hu<g ref="char:EOLhyphen"/>mors must be pleased now adays, confer pre<g ref="char:EOLhyphen"/>cedent
+<pb n="6" facs="tcp:159955:4"/>examples and divine power now and then: and thou mayst, if thou wilt with reason, be satisfied. But from this digression Ile return to compleat former omisions.</p>
+            <p>This dead corps becoming a living Won<g ref="char:EOLhyphen"/>der, not only to the present, but also to future ages; being thus exposed to the view of a few in particular was made, for the more ample manifestation of his miraculous preservation, a general spectacle to multitudes of beholders.</p>
+            <p>Many incredulous people about the city and other adjacent places making use of the cape<g ref="char:EOLhyphen"/>raits quere John 6. who have come upon their own leggs and in coaches to see vvith their ovvn eyes hovv this story vvas raised, and hovv this vvondrous and almost unparalleld prodi<g ref="char:EOLhyphen"/>gie vvas accomplished: divers great and highly qualified personages vvere also ocular vvitnesses to this stupendious miracle, among the rest the honourable Sir Walter Earl, the Worshipfull Alderman Foulk with hundreds more of cre<g ref="char:EOLhyphen"/>dit came to vievv this corps, his Arms and legs vvere so stiff and solid, that none could separate limb from limb except they used violence, his nayls both upon fingers and toes, and his hair not perished a jot at all, no more then if he dyed
+<pb n="7" facs="tcp:159955:4"/>in lesse then so many days as he hath been dead years, a miraculous thing: but christian Rea<g ref="char:EOLhyphen"/>der I desire thee for thy satisfaction to come with me a little neerer and Ile shew thee yet wonders beyond the premises, thou hast but as yet heard of the roof and wals of this earthly building; but I wil now shew to the eyes of thy soul the inward dashings of the divine architect; it plea<g ref="char:EOLhyphen"/>fed the honorable spectators who had with ad<g ref="char:EOLhyphen"/>miration beheld the external frame so strangely preserved from corruption to have a view of the internal parts and to that end two men suffici<g ref="char:EOLhyphen"/>ently experienced in the art of chirurgery were sent for to open him which they did, and his intrels with his bowels were as supple and moist as if he had been but newly departed from this life, his heart was so firm, sound and voyd of putrifaction, worm-holes and other ensigns of mortality can possibly be imagined to be found in any lately diseased man: he was it seems in his life-time a short corpulent man; the fat of his belly at this instant, being hard even (as white wax) is two inches or very neer in thick<g ref="char:EOLhyphen"/>nesse: briefly all parts within and without were compleat and might challenge any thing but life it self, save his face something disfigu<g ref="char:EOLhyphen"/>red
+<pb n="8" facs="tcp:159955:5"/>and skinlesse, his nose fallen, and his eys sunk into his head or otherwise perished. Thus, worthy Reader, hath my unworthy pen described unto thee the won<g ref="char:EOLhyphen"/>derful works of the ever-living Creator, made known unto us after a most miraculous manner in this his so long dead creature.</p>
+            <p>I wil conclude all with a word or two of admonition this gentleman having been, as thou hast heard, invol<g ref="char:EOLhyphen"/>ved in the earth for the space of 34 years is now by his wonderful and miraculous preservation from common corruption, though dead, become a living Preacher unto thee of the power of God: make good use then (I pray thee for thy souls health) of this and all other the wondrous works of God, and print this lesson ever in thy heart, that he who with his only Word made man and all things else, can and is able beyond humane capacity with the same Word and Power dispose of and order all that he hath created: To him therefore be ascribed all power, honor, and dominion, now, and to, and in, all Eternity. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
